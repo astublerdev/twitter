@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/astublerdev/twitter/blob/main/Twitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/astublerdev/twitter/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-02-22%20at%2020.50.00.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
